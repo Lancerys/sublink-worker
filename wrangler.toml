@@ -11,6 +11,3 @@ kv_namespaces = [
 [assets]
 directory = "./public"
 
-[[routes]]
-pattern = "substore.lancery.pp.ua/*"
-custom_domain = true
